@@ -16,4 +16,3 @@ def hello():
         " and we're running Azure App Service for Linux"
 
     return content
-    # return "Hello Flask, on Azure App Service for Linux"
